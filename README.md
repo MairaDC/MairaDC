@@ -3,7 +3,7 @@ This page is intended to help others understand what it might be like to work wi
 
 ## 🕤 Time zone and working hours
 - My working days are monday-tuesday & thursday-friday, _wednesday is my day off(line)_
-- I work between 08.30 - 17.30 (Amsterdam time)
+- I work remote between 08.30 - 17.30 (Amsterdam time) from home and Xpirit HQ (NL)
 - I do not check email, work, or respond to work-related messages on days off, holidays, evenings and the weekends.
 
 ## 📫 Communication preferences
