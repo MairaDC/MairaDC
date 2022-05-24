@@ -22,7 +22,7 @@ Communicate. If there's a problem or you're blocked on something, please bring i
 ## What I assume about others
 - ❤️ Positive intent.
 - 💜 You’ll ask for my input and help if it’s needed.
-- 💙 You do your **best effort to be inclusive** when communicating whith me and my team.
+- 💙 You do your **best effort to be inclusive** when communicating with me and my team.
 - 💚 You have more going on than the one thing we're discussing.
 - 💛 Everyone is likely fighting a battle I know nothing about. 💛
 
