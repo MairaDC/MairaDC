@@ -1,14 +1,4 @@
-- 👋 Hi, I’m @MairaDC
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-MairaDC/MairaDC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-# Working with me - a user manual to Maira (she/her)
+# 👋 Working with me - a user manual to Maira (she/her)
 This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before. It's also a well-intentioned effort at building some trust by being intentionally vulnerable, and to share my ideas of a good working relationship to reduce the anxiety of people who might be on my team.
 
 ## 🕤 Time zone and working hours
