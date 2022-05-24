@@ -14,13 +14,13 @@ Communicate. If there's a problem or you're blocked on something, please bring i
 
 ## My working style
 - **I like explicit tasks.** I’m better at helping when I have a good idea of what you need. “Take a look” is less helpful than “I’m looking for feedback on X and Y, by end of month”.
-- **Transparency is very important to me.** Please work with short toes, no ego, and a low level of shame.
+- **Transparency is very important to me.** Please work with a low level of shame, no ego, and be open to criticism.
 - **If I disagree with you, I may try to steer you down a different path.** But me disagreeing with you doesn’t mean that you’re doing something wrong.
 - **Please do not take offense to periods of silence.** I prefer long, uninterrupted windows of time to work. I disable all notifications on my laptop and my phone. This allows me to focus deeply on one task at a time, which is a more efficient way of working than attempting to multitask.
 - **I need recovery time after social events.** After trainings and workshops I go offline to recover from a social hangover and focus on individual work.
 
 ## What I assume about others
-- ❤️ Positive intent.
+- ❤️ Positive intent, open to feedback and willingness to learn
 - 💜 You’ll ask for my input and help if it’s needed.
 - 💙 You do your best effort to be inclusive when communicating with me and my team.
 - 💚 You have more going on than the one thing we're discussing.
