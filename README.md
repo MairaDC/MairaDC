@@ -8,13 +8,12 @@ This page is intended to help others understand what it might be like to work wi
 
 ## 📫 Communication preferences
 Communicate. If there's a problem or you're blocked on something, please bring it up. I'll generally interpret silence as "everything's fine".
-
 - **I prefer to communicate via written messages** (email, slack or teams will do) I highly dislike phone calls, because I need time to process information and feel rushed to repsond.
 - **Need me to respond quickly?** send me a text message (only call if something is on fire 🔥).
 - **I don’t have unscheduled meetings**. My weeks are packed with training, workshops and customer work. I protect my time and manage my energy levels: In order to do my best work (creating scripts, workshops, etc), I need long stretches of time to think and focus. Unscheduled calls are interruptions for me.
 
 ## My working style
-- I like explicit asks. I’m better at helping when I have a good idea of what you need. “Take a look” is less helpful than “I’m looking for feedback on X and Y, by end of month”.
+- I like explicit tasks. I’m better at helping when I have a good idea of what you need. “Take a look” is less helpful than “I’m looking for feedback on X and Y, by end of month”.
 - Transparency is very important to me. Please work with short toes, no ego, and a low level of shame.
 - If I disagree with you, I may try to steer you down a different path. But me disagreeing with you doesn’t mean that you’re doing something wrong.
 - Please do not take offense to periods of silence. I prefer long, uninterrupted windows of time to work. I disable all notifications on my laptop and my phone. This allows me to focus deeply on one task at a time, which is a more efficient way of working than attempting to multitask.
