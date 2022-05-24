@@ -18,11 +18,10 @@ Communicate. If there's a problem or you're blocked on something, please bring i
 - **If I disagree with you, I may try to steer you down a different path.** But me disagreeing with you doesn’t mean that you’re doing something wrong.
 - **Please do not take offense to periods of silence.** I prefer long, uninterrupted windows of time to work. I disable all notifications on my laptop and my phone. This allows me to focus deeply on one task at a time, which is a more efficient way of working than attempting to multitask.
 - **I need recovery time after social events.** After trainings and workshops I go offline to recover from a social hangover and focus on individual work.
-- **I am generally clear-minded and explicit about my priorities.** I make conscious commitments and have a plan to back them up, as do I expect of others.
 - **I appreciate “I don’t know” as an answer.** 
 
 ## 🙏 Respect
-- **I take action items really seriously** and I expect you to know what yours are, when they are due, and get them done. I don’t like chasing them but I do notice when things slip—it’s fine to renegotiate deadlines but I’ll be annoyed if it’s the day after the deadline.
+- **I take action items really seriously** and I expect you to know what yours are, when they are due, and get them done. I don’t like chasing them but I do notice when things slip, it’s fine to renegotiate deadlines but I’ll be annoyed if it’s the day after the deadline.
 - **I am generally clear-minded and explicit about my priorities.** My job is to achieve my priorities. Your job is to achieve your priorities. Our time together, in any context, is best spent at the intersection of our respective priorities. I therefore very much appreciate knowing what your priorities are when we talk.
 
 ## What I assume about others
