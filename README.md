@@ -25,7 +25,7 @@ Communicate. If there's a problem or you're blocked on something, please bring i
 - **I am generally clear-minded and explicit about my priorities.** My job is to achieve my priorities. Your job is to achieve your priorities. Our time together, in any context, is best spent at the intersection of our respective priorities. I therefore very much appreciate knowing what your priorities are when we talk.
 
 ## What I assume about others
-- ❤️ Positive intent, open to feedback and willingness to learn
+- ❤️ Positive intent, open to feedback and willingness to learn.
 - 💜 You’ll ask for my input and help if it’s needed.
 - 💙 You do your best effort to be inclusive when communicating with me and my team.
 - 💚 You have more going on than the one thing we're discussing.
