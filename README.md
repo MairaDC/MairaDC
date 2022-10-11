@@ -1,5 +1,5 @@
 # 👋 Working with me - user manual to Maira (she/her)
-This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before. It's also a well-intentioned effort at building some trust by being intentionally vulnerable, and to share my ideas of a good working relationship to reduce the anxiety of people who might be on my team.
+This page is intended to help others understand what it might be like to work with me, especially people who haven’t worked with me before. It's also a well-intentioned effort at building some trust by being intentionally vulnerable, and to share my ideas of a good working relationship.
 
 ## 🕤 Time zone and working hours
 - My working days are monday-tuesday & thursday-friday, _wednesday is my day off(line)_
