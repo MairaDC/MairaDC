@@ -8,7 +8,7 @@ This page is intended to help others understand what it might be like to work wi
 
 ## 📫 Communication preferences
 Communicate. If there's a problem or you're blocked on something, please bring it up. I'll generally interpret silence as "everything's fine".
-- **I prefer to communicate via written messages** (email, slack or teams will do) I highly dislike phone calls, because I need time to process information and feel rushed to repsond.
+- **I prefer to communicate via written messages** (email, slack or teams will do) I highly dislike phone calls, because I need time to process information and feel rushed to respond.
 - **Need me to respond quickly?** send me a text message (only call if something is on fire 🔥).
 - **I don’t have unscheduled meetings**. My weeks are packed with training, workshops and customer work. I protect my time and manage my energy levels: In order to do my best work (creating scripts, workshops, etc), I need long stretches of time to think and focus. Unscheduled calls are interruptions for me.
 
